@@ -1,0 +1,48 @@
+body {
+	background: url("http://www.ehiyo.com/wp-content/uploads/2014/11/juventus-fc-30438.jpg") no-repeat center center fixed;
+
+-moz-background-size: cover;
+
+-webkit-background-size: cover;
+
+-o-background-size: cover;
+
+background-size: cover;
+
+}
+table{
+	margin-left: 100px; 
+}
+
+#text{
+	color: silver;
+	font-size: 20px;
+}
+#pictures {
+	width: 150px;
+	height: 150px;
+}
+#nav_bar ul
+{
+margin: 20;
+padding: 20;
+list-style-type: none;
+text-align: center;
+}
+
+#nav_bar ul li { display: inline; }
+
+#nav_bar ul li a
+{
+text-decoration: none;
+
+padding: .2em 1em;
+color: silver;
+font-size: 40px;
+}
+
+#nav_bar ul li a:hover
+{
+color: #fff;
+background-color: silver;
+}
